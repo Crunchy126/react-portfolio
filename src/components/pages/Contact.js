@@ -21,7 +21,7 @@ class Contact extends Component {
             </div>
             <div class="col-md-3 text-pink">
               <p>Github Profile Page:</p>
-              <a href="https://github.com/ZaphodBettlebrox" target="_blank" rel="noopener noreferrer">ZaphodBettlebrox</a>
+              <a href="https://github.com/Crunchy126" target="_blank" rel="noopener noreferrer">Crunchy126</a>
             </div>
 
             <div class="col-md-2">
@@ -29,7 +29,7 @@ class Contact extends Component {
 
             <div class="col-md-3 text-pink">
               <p>Linkin Profile Page:</p>
-              <a href="https://www.linkedin.com/in/aidan-willett-97a816124" target="_blank" rel="noopener noreferrer">Aidan Willett</a>
+              <a href="https://www.linkedin.com/in/liam-hayes-619813195/" target="_blank" rel="noopener noreferrer">Liam Hayes</a>
             </div>
       
             <div class="col-md-2">
@@ -45,12 +45,12 @@ class Contact extends Component {
             </div>
             <div class="col-md-4">
               <p>
-                Email address: Gamer9310@gmail.com
+                Email address: liamh1267@gmail.com
               </p>
             </div>
             <div class="col-md-4">
               <p>
-                Phone Number: 253 455 5399
+                Phone Number: 314 800 3339
               </p>
             </div>
 

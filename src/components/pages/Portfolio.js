@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import PigBank from "../../pictures/Pig-E-Bank.PNG";
-import Top3 from "../../pictures/Capture.PNG";
-import WorkDay from "../../pictures/work-day-scheduler.PNG";
+import Webgen from "../../pictures/webgen.JPG";
+import Cibus from "../../pictures/Cibus.JPG";
 import FooterNoPic from "../FooterNoPic";
 
 class Portfolio extends Component {
@@ -38,17 +38,17 @@ class Portfolio extends Component {
               </div>
 
               <div className="col-md-4 images">
-                <p className="text-center text-pink">Work Day Scheduler</p>
-                <a href="extra pages/picture2.html" target="_blank">
+                <p className="text-center text-pink">Cibus</p>
+                <a href="https://cibusapp.herokuapp.com" target="_blank">
                   <img
-                    src={WorkDay}
+                    src={Cibus}
                     className="img-fluid"
                     alt="Responsive"
                     rel="noopener noreferrer"
                   />
                 </a>
                 <a
-                  href="https://github.com/ZaphodBettlebrox/Homework5-Day-Planner"
+                  href="https://github.com/Javeyn/Cibus"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -63,16 +63,16 @@ class Portfolio extends Component {
               <div className="col-md-2"></div>
 
               <div className="col-md-4 images">
-                <p className="text-center text-pink">Top 3</p>
+                <p className="text-center text-pink">Webgen</p>
                 <a
-                  href="https://top3recommendations.herokuapp.com/"
+                  href="https://webgen2020.herokuapp.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <img src={Top3} className="img-fluid" alt="Responsive" />
+                  <img src={Webgen} className="img-fluid" alt="Responsive" />
                 </a>
                 <a
-                  href="https://github.com/ZaphodBettlebrox/Project-2"
+                  href="https://github.com/rafaykhawar09/WebGen"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Footer from "../Footer";
+import FooterNoPic from "../FooterNoPic";
 // import "../styles/Allstyles.css"
 
 
@@ -53,7 +54,7 @@ class About extends Component {
     </div>
 
       <div>
-        <Footer></Footer>
+        <FooterNoPic></FooterNoPic>
       </div>
     </div>
   )};

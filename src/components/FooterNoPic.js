@@ -6,7 +6,7 @@ function FooterNoPic() {
     <nav class="fixed-bottom footer text-center">
     <div class="line"></div>
     <div class="line2"></div>
-    <p class="navbar-brand copyright">Copyright @ Aidan Willett 2019</p>
+    <p class="navbar-brand copyright">Copyright @ Liam Hayes 2020</p>
   </nav>
   );
 }
