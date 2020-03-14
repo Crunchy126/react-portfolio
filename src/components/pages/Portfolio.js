@@ -29,6 +29,7 @@ class Portfolio extends Component {
                   <img src={PigBank} className="img-fluid" alt="Responsive" />
                 </a>
                 <a
+                  className="git-link"
                   href="https://github.com/ajrsabet/Screen_Time_Tracker"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -48,6 +49,7 @@ class Portfolio extends Component {
                   />
                 </a>
                 <a
+                  className="git-link"
                   href="https://github.com/Javeyn/Cibus"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -72,6 +74,7 @@ class Portfolio extends Component {
                   <img src={Webgen} className="img-fluid" alt="Responsive" />
                 </a>
                 <a
+                  className="git-link"
                   href="https://github.com/rafaykhawar09/WebGen"
                   target="_blank"
                   rel="noopener noreferrer"

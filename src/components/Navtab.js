@@ -4,7 +4,7 @@ import React from "react";
 function NavTab(props) {
   return (
     <nav className="navbar navbar-expand-lg bg-blue">
-      <p className="navbar-brand Aidan-Willett">Liam Hayes</p>
+      <p className="navbar-brand Liam-Hayes">Liam Hayes</p>
 
       <button
         className="navbar-toggler"

@@ -28,9 +28,34 @@ class Contact extends Component {
             </div>
 
             <div class="col-md-3 text-pink">
-              <p>Linkin Profile Page:</p>
+              <p>LinkedIn Profile Page:</p>
               <a href="https://www.linkedin.com/in/liam-hayes-619813195/" target="_blank" rel="noopener noreferrer">Liam Hayes</a>
             </div>
+      
+            <div class="col-md-2">
+            </div>
+          </div>
+
+          <br/>
+          <br/>
+          <br/>
+
+          <div class="row">
+
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-3 text-pink">
+              <p>Resume:</p>
+              <a href="https://drive.google.com/open?id=18AblbdT683TwOIjxBrFCYOdj3S0ctqiH" target="_blank" rel="noopener noreferrer">Resume</a>
+            </div>
+
+            {/* <div class="col-md-2">
+            </div>
+
+            <div class="col-md-3 text-pink">
+              <p>LinkedIn Profile Page:</p>
+              <a href="https://www.linkedin.com/in/liam-hayes-619813195/" target="_blank" rel="noopener noreferrer">Liam Hayes</a>
+            </div> */}
       
             <div class="col-md-2">
             </div>
