@@ -23,28 +23,19 @@ class About extends Component {
         <div className="row">
           <div className="col-md-12">
             <p className="text">
-              Starting out with some background of myself, I was born in
-              Santa Maria, California and moved up to Washington when I
-              was 7. I have been surrounded with technology my whole
-              life growing up. I have been around things like printers,
-              kiosks, atms, and other computers, building my own
-              computer when I was younger.
+                As an avid nerd, it was only a matter of time before I was drawn into the realm of coding. I began my higher
+                education working towards an electrical engineering degree, but after realizing that college wasn't right
+                for me, I searched for a reasonable alternative and am currently enrolled in a coding bootcamp through
+                University of Washington. This fast-paced and highly focused style of education is far more suitable for me.
               <br />
               <br />
-              A bit nerdy, but I am into 3d modeling and 3d printing
-              that I do for a hobby, with of which I have made a
-              full-size HALO Reach Spartan Suit that had taken me about
-              2 years to make. I am a member of a HALO costuming group
-              called the 405th. We are a world-wide group that goes to
-              conventions as well as events that we are invited out to,
-              like Microsoft events, 343 events, and make a wish
-              foundation events. I also have an Etsy store with a friend
-              selling 3d print files and full 3d prints.
+              I enjoy problem solving, playing games, and learning. My favorite things involve all three, such as
+                multiplayer strategy games.
               <br />
               <br />
-              Technology is the future and not only do I want to work in
-              a tech field, I want to be surrounded by it and learn as
-              much as I can to be able to better myself.
+              My goals are to work hard so I can play hard, and in the process, make or do something I'm proud of. As I
+                  learn, I'll want to learn more. The more tools I have under my belt, the better my work will be, both in my
+                  job and in my side projects.
             </p>
           </div>
         </div>
